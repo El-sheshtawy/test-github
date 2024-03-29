@@ -1,2 +1,2 @@
 # test-github
-Test github usage
+this project is to apply git and github features.
